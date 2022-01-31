@@ -123,6 +123,12 @@ var portfolio = [
 //Initiate array with data
 var writing = [
     {
+        href: "https://wp.nyu.edu/wagnerplanner/2022/01/27/will-winter-freeze-out-nycs-open-streets-program/",
+        image: "images/featured/activestreets.png",
+        title: "Will Winter Freeze Out NYC's Open Streets Program?",
+        description: "The program's complicated rollout, fate this winter, and long term outlook",
+    },
+    {
         href: "https://wp.nyu.edu/wagnerplanner/2021/11/09/ingrid-gould-ellen-reflects/",
         image: "images/Ingrid2019.jpg",
         title: "Profile of Ingrid Gould Ellen",
