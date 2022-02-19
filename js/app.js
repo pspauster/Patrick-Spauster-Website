@@ -123,6 +123,12 @@ var portfolio = [
 //Initiate array with data
 var writing = [
     {
+        href: "https://wp.nyu.edu/wagnerplanner/2022/02/10/shabazz-stuart-and-oonee-do-business-like-urban-planners/",
+        image: "images/oonee.jpeg",
+        title: "Shabazz Stuart and Oonee Do Business Like Urban Planners",
+        description: "Oonee, like its founders, straddles the line between business and policy.",
+    },
+    {
         href: "https://wp.nyu.edu/wagnerplanner/2022/01/27/will-winter-freeze-out-nycs-open-streets-program/",
         image: "images/featured/activestreets.png",
         title: "Will Winter Freeze Out NYC's Open Streets Program?",
