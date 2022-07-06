@@ -22,6 +22,12 @@ var portfolio = [
         description: "Findings from the National Longitudinal Land Use Survey",
     },
     {
+        href: "https://furmancenter.org/stateofthecity/view/the-geography-of-new-housing",
+        image: "images/socmap.jfif",
+        title: "The Geography of New Housing Development",
+        description: "Analyzing 10 years of NYC housing development data",
+    },
+    {
         href: "https://www.urban.org/features/housing-first-breaks-homelessness-jail-cycle",
         image: "images/denver-sib-header-50.jpg",
         title: "Housing First Breaks the Homelessness-Jail Cycle",
@@ -122,6 +128,12 @@ var portfolio = [
 //Writing Carousel
 //Initiate array with data
 var writing = [
+    {
+        href: "https://www.bloomberg.com/news/articles/2022-07-01/are-there-better-options-than-gas-tax-holidays",
+        image: "images/gastax.jpg",
+        title: "Cities Seek Alternatives to Gas Tax Holidays",
+        description: "Policymakers looking to relieve high transportation costs have other options.",
+    },
     {
         href: "https://wp.nyu.edu/wagnerplanner/2022/02/10/shabazz-stuart-and-oonee-do-business-like-urban-planners/",
         image: "images/oonee.jpeg",
