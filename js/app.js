@@ -129,6 +129,12 @@ var portfolio = [
 //Initiate array with data
 var writing = [
     {
+        href: "https://www.bloomberg.com/news/articles/2022-07-28/a-college-town-takes-on-exclusionary-zoning",
+        image: "images/gainesville.jpg",
+        title: "A College Town Takes On Exclusionary Zoning",
+        description: "Gainesville, Florida, could be on the verge of eliminating single-family housing requirements",
+    },
+    {
         href: "https://www.bloomberg.com/news/articles/2022-07-01/are-there-better-options-than-gas-tax-holidays",
         image: "images/gastax.jpg",
         title: "Cities Seek Alternatives to Gas Tax Holidays",
