@@ -129,6 +129,18 @@ var portfolio = [
 //Initiate array with data
 var writing = [
     {
+        href: "https://www.bloomberg.com/news/articles/2022-08-30/the-bitter-fight-for-unions-at-starbucks-one-year-later",
+        image: "images/sbux.jpg",
+        title: "The Bitter Fight For Unions at Starbucks, One Year Later",
+        description: "A spring surge in union activity at Starbucks stores has tapered off",
+    },
+    {
+        href: "https://www.bloomberg.com/news/articles/2022-08-09/gainesville-florida-moves-to-end-single-family-zoning",
+        image: "images/gainesville2.jpg",
+        title: "Gainesville, Florida, Moves to End Single-Family Zoning",
+        description: "The city commission recently voted to go ahead with the changes, despite vocal opposition",
+    },
+    {
         href: "https://www.bloomberg.com/news/articles/2022-07-28/a-college-town-takes-on-exclusionary-zoning",
         image: "images/gainesville.jpg",
         title: "A College Town Takes On Exclusionary Zoning",
