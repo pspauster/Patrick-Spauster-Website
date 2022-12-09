@@ -7,7 +7,7 @@ var portfolio = [
         href: "/Docs/MyResume.pdf",
         image: "images/resume.jpg",
         title: "My CV",
-        description: "Read about my professional experience. Current to June 2021",
+        description: "Read about my professional experience. Current to October 2022",
     },
     {
         href: "dataviz.html",
@@ -16,16 +16,22 @@ var portfolio = [
         description: "View some of my published and unpublished data visualizations",
     },
     {
+        href: "https://wp.nyu.edu/wagnerplanner/",
+        image: "images/wp.jpg",
+        title: "The Wagner Planner",
+        description: "I edit the NYU Planning Journal. Read our recent stories",
+    },
+    {
         href: "https://www.urban.org/research/publication/rise-market-reliant-affordable-housing-tools",
         image: "images/iz.png",
         title: "The Rise of Market-Reliant Affordable Housing Tools",
-        description: "Findings from the National Longitudinal Land Use Survey",
+        description: "Housing trust funds are on the decline inclusionary zoning and zoning incentives are on the rise",
     },
     {
         href: "https://furmancenter.org/stateofthecity/view/the-geography-of-new-housing",
         image: "images/socmap.jfif",
         title: "The Geography of New Housing Development",
-        description: "Analyzing 10 years of NYC housing development data",
+        description: "We estimate that at least 32 percent of all multi-family units completed were income-restricted",
     },
     {
         href: "https://www.urban.org/features/housing-first-breaks-homelessness-jail-cycle",
@@ -128,6 +134,12 @@ var portfolio = [
 //Writing Carousel
 //Initiate array with data
 var writing = [
+    {
+        href: "https://www.bloomberg.com/news/articles/2022-10-13/florida-fights-gainesville-s-bid-to-end-single-family-zoning",
+        image: "images/gainesville3.jpg",
+        title: "Florida Republicans Are Fighting Zoning Reform",
+        description: "The state government is pushing back against Gainesville's effort to eliminate single-family zoning.",
+    },
     {
         href: "https://www.bloomberg.com/news/articles/2022-08-30/the-bitter-fight-for-unions-at-starbucks-one-year-later",
         image: "images/sbux.jpg",
