@@ -22,6 +22,12 @@ var portfolio = [
         description: "I edit the NYU Planning Journal. Read our recent stories",
     },
     {
+        href: "https://furmancenter.shinyapps.io/officehotelmap/",
+        image: "images/featured/officehotel.JPG",
+        title: "Office and Hotel Interactive Map",
+        description: "Mapping opportunities to convert to offices and hotels to housing ",
+    },
+    {
         href: "https://www.urban.org/research/publication/rise-market-reliant-affordable-housing-tools",
         image: "images/iz.png",
         title: "The Rise of Market-Reliant Affordable Housing Tools",
