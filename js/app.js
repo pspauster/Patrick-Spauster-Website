@@ -25,8 +25,14 @@ var portfolio = [
         href: "https://furmancenter.shinyapps.io/officehotelmap/",
         image: "images/featured/officehotel.JPG",
         title: "Office and Hotel Interactive Map",
-        description: "Mapping opportunities to convert to offices and hotels to housing ",
+        description: "Mapping opportunities to convert offices and hotels to housing ",
     },
+    {
+        href: "https://furmancenter.org/thestoop/entry/implications-and-geography-of-office-to-housing-conversions",
+        image: "images/offices.jpg",
+        title: "Stoop Blog Post: Office Conversions",
+        description: "Implications and Geography of Office to Housing Conversions",
+    },   
     {
         href: "https://www.urban.org/research/publication/rise-market-reliant-affordable-housing-tools",
         image: "images/iz.png",
@@ -140,6 +146,12 @@ var portfolio = [
 //Writing Carousel
 //Initiate array with data
 var writing = [
+    {
+        href: "https://www.bloomberg.com/news/articles/2023-02-02/how-gainesville-s-yimby-zoning-reform-was-undone",
+        image: "images/gainesville4.jpg",
+        title: "How Backlash Reversed a Florida City’s Reforms to Allow Denser Housing",
+        description: "The swift about-face shows that pro-housing advocates still face tough local battles. ",
+    },
     {
         href: "https://www.bloomberg.com/news/articles/2022-10-13/florida-fights-gainesville-s-bid-to-end-single-family-zoning",
         image: "images/gainesville3.jpg",
