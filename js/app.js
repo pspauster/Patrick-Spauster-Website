@@ -147,10 +147,16 @@ var portfolio = [
 //Initiate array with data
 var writing = [
     {
+        href: "https://www.bloomberg.com/news/features/2023-04-03/jersey-city-is-reimagining-public-housing-redevelopment",
+        image: "images/jc-rendering.jpeg",
+        title: "Jersey City Is Reimagining Public Housing Redevelopment",
+        description: "A mixed-income development aims to update aging public housing.",
+    },
+    {
         href: "https://www.bloomberg.com/news/articles/2023-02-02/how-gainesville-s-yimby-zoning-reform-was-undone",
         image: "images/gainesville4.jpg",
-        title: "How Backlash Reversed a Florida City’s Reforms to Allow Denser Housing",
-        description: "The swift about-face shows that pro-housing advocates still face tough local battles. ",
+        title: "How Backlash Reversed a Florida City’s Zoning Reforms",
+        description: "The swift about-face shows that pro-housing advocates still face tough local battles.",
     },
     {
         href: "https://www.bloomberg.com/news/articles/2022-10-13/florida-fights-gainesville-s-bid-to-end-single-family-zoning",
