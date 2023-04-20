@@ -147,6 +147,12 @@ var portfolio = [
 //Initiate array with data
 var writing = [
     {
+        href: "https://www.bloomberg.com/news/newsletters/2023-04-20/maplab-tracking-spring-cherry-blossoms",
+        image: "images/cherry.jpg",
+        title: "Tracking Spring Cherry Blossoms",
+        description: "MapLab: How to make the most out of peak cherry blossom bloom.",
+    },
+    {
         href: "https://www.bloomberg.com/news/features/2023-04-03/jersey-city-is-reimagining-public-housing-redevelopment",
         image: "images/jc-rendering.jpeg",
         title: "Jersey City Is Reimagining Public Housing Redevelopment",
