@@ -147,6 +147,12 @@ var portfolio = [
 //Initiate array with data
 var writing = [
     {
+        href: "https://nyc.streetsblog.org/2023/06/08/map-quest-see-exactly-why-sammys-law-would-be-so-crucial-for-the-boroughs",
+        image: "images/speeding-car-with-map3.png",
+        title: "See Exactly Why Sammy’s Law Would Be So Crucial for the Boroughs",
+        description: "Mapping the city's most dangerous 25mph streets with Streetsblog",
+    },
+    {
         href: "https://www.bloomberg.com/news/newsletters/2023-04-20/maplab-tracking-spring-cherry-blossoms",
         image: "images/cherry.jpg",
         title: "Tracking Spring Cherry Blossoms",
