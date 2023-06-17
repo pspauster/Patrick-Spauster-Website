@@ -214,7 +214,8 @@ button {
     border: none;
     border-radius: .25rem;
     color: #3B8182;
-    margin-top: .25rem;
+    margin: 0.75rem;
+    height: 2rem;
 }
 
 a {
