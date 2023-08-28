@@ -147,6 +147,11 @@ var portfolio = [
 //Initiate array with data
 var writing = [
     {
+        href: "https://chi.streetsblog.org/2023/08/25/chicagos-e-scooter-program-is-zooming-ahead-but-equity-gaps-remain",
+        image: "images/scooter-roll.jpeg",
+        title: "Equity Remains Elusive for Chicago's E-Scooter Program",
+        description: "Ridership lags in the city’s Black and Brown neighborhoods",
+    },    {
         href: "https://nyc.streetsblog.org/2023/06/08/map-quest-see-exactly-why-sammys-law-would-be-so-crucial-for-the-boroughs",
         image: "images/speeding-car-with-map3.png",
         title: "See Exactly Why Sammy’s Law Would Be So Crucial for the Boroughs",
