@@ -147,11 +147,18 @@ var portfolio = [
 //Initiate array with data
 var writing = [
     {
+        href: "https://www.bloomberg.com/news/newsletters/2023-08-30/citylab-maplab-reforming-zoning-codes-with-data?cmpid=BBD083023_MAPLAB&utm_medium=email&utm_source=newsletter&utm_term=230830&utm_campaign=maplab#xj4y7vzkg",
+        image: "images/zoning-atlas.png",
+        title: "The Zoning Data Revolution is Here",
+        description: "New datasets are shining a light on the opaque laws that dictate the way we live.",
+    },
+    {
         href: "https://chi.streetsblog.org/2023/08/25/chicagos-e-scooter-program-is-zooming-ahead-but-equity-gaps-remain",
         image: "images/scooter-roll.jpeg",
         title: "Equity Remains Elusive for Chicago's E-Scooter Program",
         description: "Ridership lags in the city’s Black and Brown neighborhoods",
-    },    {
+    },
+    {
         href: "https://nyc.streetsblog.org/2023/06/08/map-quest-see-exactly-why-sammys-law-would-be-so-crucial-for-the-boroughs",
         image: "images/speeding-car-with-map3.png",
         title: "See Exactly Why Sammy’s Law Would Be So Crucial for the Boroughs",

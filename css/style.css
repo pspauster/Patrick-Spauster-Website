@@ -216,6 +216,7 @@ button {
     color: #3B8182;
     margin: 0.75rem;
     height: 2rem;
+    cursor: pointer;
 }
 
 a {
