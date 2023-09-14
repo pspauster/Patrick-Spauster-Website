@@ -147,6 +147,12 @@ var portfolio = [
 //Initiate array with data
 var writing = [
     {
+        href: "https://citylimits.org/2023/09/11/a-real-estate-trust-bought-dozens-of-brooklyn-brownstones-now-it-wants-out/",
+        image: "images/CityLimitsRealEstateTrust.jpeg",
+        title: "A REIT Bought Brooklyn Brownstones. Now it Wants Out",
+        description: "A trust targeted gentrifying Brooklyn - now tenants are left holding the bag",
+    },
+    {
         href: "https://www.bloomberg.com/news/newsletters/2023-08-30/citylab-maplab-reforming-zoning-codes-with-data?cmpid=BBD083023_MAPLAB&utm_medium=email&utm_source=newsletter&utm_term=230830&utm_campaign=maplab#xj4y7vzkg",
         image: "images/zoning-atlas.png",
         title: "The Zoning Data Revolution is Here",
