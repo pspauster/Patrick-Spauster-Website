@@ -16,6 +16,12 @@ var portfolio = [
         description: "View some of my published and unpublished data visualizations",
     },
     {
+        href: "https://citylimits.org/nyc-shelter-count/",
+        image: "images/CL-shelter-tracker.jpeg",
+        title: "NYC Shelter Count",
+        description: "An auto-updating tool tracking the people living in NYC shelters",
+    },
+    {
         href: "https://wp.nyu.edu/wagnerplanner/",
         image: "images/wp.jpg",
         title: "The Wagner Planner",
@@ -146,6 +152,12 @@ var portfolio = [
 //Writing Carousel
 //Initiate array with data
 var writing = [
+    {
+        href: "https://citylimits.org/2023/12/07/tracking-nycs-record-high-homeless-shelter-population/",
+        image: "images/CL-shelter-story.jpeg",
+        title: "140K People Live In NYC Shelters",
+        description: "Tracking the NYC shelter population amid record homelessness",
+    },
     {
         href: "https://citylimits.org/2023/09/11/a-real-estate-trust-bought-dozens-of-brooklyn-brownstones-now-it-wants-out/",
         image: "images/CityLimitsRealEstateTrust.jpeg",
