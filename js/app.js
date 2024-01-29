@@ -153,6 +153,12 @@ var portfolio = [
 //Initiate array with data
 var writing = [
     {
+        href: "https://citylimits.org/2024/01/29/why-are-you-making-it-so-difficult-nyc-cash-aid-applicants-face-denial-surge/",
+        image: "images/ca_sign.jpeg",
+        title: "Cash Aid Denials Surge",
+        description: "Bureacratic hurdles are keeping low income folks from benefits",
+    },
+    {
         href: "https://citylimits.org/2023/12/07/tracking-nycs-record-high-homeless-shelter-population/",
         image: "images/CL-shelter-story.jpeg",
         title: "140K People Live In NYC Shelters",
