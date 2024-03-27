@@ -153,6 +153,12 @@ var portfolio = [
 //Initiate array with data
 var writing = [
     {
+        href: "https://nyc.streetsblog.org/2024/03/26/safety-last-dot-added-no-new-protected-bike-lanes-in-four-priority-districts",
+        image: "images/sharrow.jpeg",
+        title: "No Bike Routes in Priority Districts",
+        description: "4 Brooklyn Neighborhoods saw no new routes",
+    },
+    {
         href: "https://citylimits.org/2024/01/29/why-are-you-making-it-so-difficult-nyc-cash-aid-applicants-face-denial-surge/",
         image: "images/ca_sign.jpeg",
         title: "Cash Aid Denials Surge",
