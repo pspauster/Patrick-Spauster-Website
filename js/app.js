@@ -153,6 +153,12 @@ var portfolio = [
 //Initiate array with data
 var writing = [
     {
+        href: "https://citylimits.org/2024/04/17/good-cause-negotiations-raise-tricky-question-whats-in-a-portfolio/",
+        image: "images/featured/portfolio-exemption.jpeg",
+        title: "'Good Cause' Exemption Leaves out Half Million Renters",
+        description: "How many apartments does your landlord own? Good luck finding out",
+    },
+    {
         href: "https://nyc.streetsblog.org/2024/03/26/safety-last-dot-added-no-new-protected-bike-lanes-in-four-priority-districts",
         image: "images/sharrow.jpeg",
         title: "No Bike Routes in Priority Districts",
