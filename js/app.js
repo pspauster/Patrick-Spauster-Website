@@ -153,6 +153,18 @@ var portfolio = [
 //Initiate array with data
 var writing = [
     {
+        href: "https://citylimits.org/2024/05/16/midtown-homeless-drop-in-center-may-be-among-city-budget-casualties/",
+        image: "images/featured/Mainchance.jpeg",
+        title: "City Closing Midtown Homeless Drop-in Center",
+        description: "Budget cuts to close a longtime homeless services center called Mainchance.",
+    },
+    {
+        href: "https://citylimits.org/2024/05/14/exit-unknown-where-do-people-go-after-leaving-nyc-homeless-shelters/",
+        image: "images/featured/StarliteHarris.jpeg",
+        title: "Exit Unknown: Homeless New Yorkers Rarely Find Housing",
+        description: "Amid a steep rise in people living in shelter, few are exiting the system",
+    },
+    {
         href: "https://citylimits.org/2024/04/17/good-cause-negotiations-raise-tricky-question-whats-in-a-portfolio/",
         image: "images/featured/portfolio-exemption.jpeg",
         title: "'Good Cause' Exemption Leaves out Half Million Renters",
