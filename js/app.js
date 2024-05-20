@@ -154,13 +154,13 @@ var portfolio = [
 var writing = [
     {
         href: "https://citylimits.org/2024/05/16/midtown-homeless-drop-in-center-may-be-among-city-budget-casualties/",
-        image: "images/featured/Mainchance.jpeg",
+        image: "images/Mainchance.jpeg",
         title: "City Closing Midtown Homeless Drop-in Center",
         description: "Budget cuts to close a longtime homeless services center called Mainchance.",
     },
     {
         href: "https://citylimits.org/2024/05/14/exit-unknown-where-do-people-go-after-leaving-nyc-homeless-shelters/",
-        image: "images/featured/StarliteHarris.jpeg",
+        image: "images/StarliteHarris.jpeg",
         title: "Exit Unknown: Homeless New Yorkers Rarely Find Housing",
         description: "Amid a steep rise in people living in shelter, few are exiting the system",
     },
