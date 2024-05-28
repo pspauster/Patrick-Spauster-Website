@@ -16,7 +16,7 @@ var portfolio = [
         description: "View some of my published and unpublished data visualizations",
     },
     {
-        href: "https://furmancenter.org/stateofthecity/neighborhoods/",
+        href: "https://furmancenter.org/neighborhoods",
         image: "images/ndps_2024.png",
         title: "Neighborhood Data Profiles",
         description: "Revamped NYC neighborhood data with new colors and interactive charts",
