@@ -16,6 +16,18 @@ var portfolio = [
         description: "View some of my published and unpublished data visualizations",
     },
     {
+        href: "https://furmancenter.org/stateofthecity/neighborhoods/",
+        image: "images/ndps_2024.png",
+        title: "Neighborhood Data Profiles",
+        description: "Revamped NYC neighborhood data with new colors and interactive charts",
+    },
+    {
+        href: "https://furmancenter.org/stateofthecity/view/the-use-of-housing-choice-vouchers-in-new-york-city",
+        image: "images/2023socimage.jpg",
+        title: "Voucher Use in NYC",
+        description: "Developed interactive graphics and scrolling template for research report",
+    },
+    {
         href: "https://citylimits.org/nyc-shelter-count/",
         image: "images/CL-shelter-tracker.jpeg",
         title: "NYC Shelter Count",
@@ -25,7 +37,7 @@ var portfolio = [
         href: "https://wp.nyu.edu/wagnerplanner/",
         image: "images/wp.jpg",
         title: "The Wagner Planner",
-        description: "I edit the NYU Planning Journal. Read our recent stories",
+        description: "I edited the NYU Planning Journal from 2022-2023 Read our recent stories",
     },
     {
         href: "https://furmancenter.shinyapps.io/officehotelmap/",
