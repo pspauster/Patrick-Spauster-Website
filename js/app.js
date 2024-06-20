@@ -166,6 +166,12 @@ var portfolio = [
 var writing = [
     {
         href: "https://citylimits.org/2024/05/16/midtown-homeless-drop-in-center-may-be-among-city-budget-casualties/",
+        image: "images/Brady.jpeg",
+        title: "Mainchance Gets Another Chance",
+        description: "Judge says city must fund homeless drop-in whele they sue city to stay open.",
+    },
+    {
+        href: "https://citylimits.org/2024/05/16/midtown-homeless-drop-in-center-may-be-among-city-budget-casualties/",
         image: "images/Mainchance.jpeg",
         title: "City Closing Midtown Homeless Drop-in Center",
         description: "Budget cuts to close a longtime homeless services center called Mainchance.",
