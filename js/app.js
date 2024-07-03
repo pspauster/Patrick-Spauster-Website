@@ -165,6 +165,12 @@ var portfolio = [
 //Initiate array with data
 var writing = [
     {
+        href: "https://www.bloomberg.com/news/features/2024-06-25/missoula-passes-homeless-encampment-law-on-eve-of-supreme-court-ruling?srnd=homepage-americas",
+        image: "images/missoula.jpg",
+        title: "Missoula Passes Camping Restrictions",
+        description: "Cities struggle to manage homeless camping as Supreme Court rules on the issue",
+    },
+    {
         href: "https://citylimits.org/2024/05/16/midtown-homeless-drop-in-center-may-be-among-city-budget-casualties/",
         image: "images/Brady.jpeg",
         title: "Mainchance Gets Another Chance",
