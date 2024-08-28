@@ -165,6 +165,12 @@ var portfolio = [
 //Initiate array with data
 var writing = [
     {
+        href: "https://citylimits.org/2024/08/26/spiking-evictions-renew-calls-to-reform-nyc-marshals-system/",
+        image: "images/marshal.jpg",
+        title: "Marshals Make Record Revenue as Evictions Spike",
+        description: "Investigating the role of the private city marshal in evictions",
+    },
+    {
         href: "https://www.bloomberg.com/news/features/2024-06-25/missoula-passes-homeless-encampment-law-on-eve-of-supreme-court-ruling?srnd=homepage-americas",
         image: "images/missoula.jpg",
         title: "Missoula Passes Camping Restrictions",
