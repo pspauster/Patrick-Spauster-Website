@@ -166,7 +166,7 @@ var portfolio = [
 var writing = [
     {
         href: "https://citylimits.org/2024/11/04/in-early-weeks-new-online-notice-of-eviction-rule-for-city-marshals-is-inconsistently-enforced/",
-        image: "images/Annotated-Evicition-Notice-final.jpg",
+        image: "images/Annotated-Eviciton-Notice-final.jpg",
         title: "Marshals Fail to Follow New Notice Rule",
         description: "Housing violations jumped 24%, frustrating tenants with persistent issues",
     },
