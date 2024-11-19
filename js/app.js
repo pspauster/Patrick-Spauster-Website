@@ -165,6 +165,12 @@ var portfolio = [
 //Initiate array with data
 var writing = [
     {
+        href: "https://citylimits.org/2024/11/19/1-in-8-nyc-public-school-students-experienced-homelessness-last-year-see-how-many-were-in-your-district/",
+        image: "images/featured/YMZVq-in-some-school-districts-one-in-five-experienced-homelessness.png",
+        title: "1 in 8 NYC School Students Homeless",
+        description: "147,000 experienced homelessness last school year, a record high",
+    },
+    {
         href: "https://citylimits.org/2024/11/04/in-early-weeks-new-online-notice-of-eviction-rule-for-city-marshals-is-inconsistently-enforced/",
         image: "images/Annotated-Eviciton-Notice-final.jpg",
         title: "Marshals Fail to Follow New Notice Rule",
