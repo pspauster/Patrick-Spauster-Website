@@ -165,10 +165,28 @@ var portfolio = [
 //Initiate array with data
 var writing = [
     {
+        href: "https://citylimits.org/2024/11/04/in-early-weeks-new-online-notice-of-eviction-rule-for-city-marshals-is-inconsistently-enforced/",
+        image: "images/Annotated-Eviciton-Notice-final.jpg",
+        title: "Marshals Fail to Follow New Notice Rule",
+        description: "Housing violations jumped 24%, frustrating tenants with persistent issues",
+    },
+    {
+        href: "https://citylimits.org/2024/10/16/housing-violations-in-nyc-jumped-24-this-year-we-mapped-them-by-neighborhood/",
+        image: "images/featured/violations.jpeg",
+        title: "Housing Code Violations Are Up. We Mapped Them",
+        description: "Housing violations jumped 24%, frustrating tenants with persistent issues",
+    },
+    {
         href: "https://citylimits.org/2024/08/26/spiking-evictions-renew-calls-to-reform-nyc-marshals-system/",
         image: "images/marshal.jpg",
         title: "Marshals Make Record Revenue as Evictions Spike",
         description: "Investigating the role of the private city marshal in evictions",
+    },
+    {
+        href: "https://citylimits.org/2024/10/02/city-must-keep-funding-mainchance-homeless-drop-in-center-court-rules/",
+        image: "images/mainchance-client.jpg",
+        title: "Mainchance Must Stay Open",
+        description: "State judge rules that the city terminated the homeless center’s contract arbitrarily",
     },
     {
         href: "https://www.bloomberg.com/news/features/2024-06-25/missoula-passes-homeless-encampment-law-on-eve-of-supreme-court-ruling?srnd=homepage-americas",
@@ -177,7 +195,7 @@ var writing = [
         description: "Cities struggle to manage homeless camping as Supreme Court rules on the issue",
     },
     {
-        href: "https://citylimits.org/2024/05/16/midtown-homeless-drop-in-center-may-be-among-city-budget-casualties/",
+        href: "https://citylimits.org/2024/06/18/homeless-drop-in-center-mainchance-gets-fresh-chance-to-fight-closure/",
         image: "images/Brady.jpeg",
         title: "Mainchance Gets Another Chance",
         description: "Judge says city must fund homeless drop-in whele they sue city to stay open.",
