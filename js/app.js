@@ -165,6 +165,12 @@ var portfolio = [
 //Initiate array with data
 var writing = [
     {
+        href: "https://citylimits.org/2025/01/06/the-blocks-strips-and-neighborhoods-carved-out-of-city-of-yes/",
+        image: "images/hollis-homes.JPG",
+        title: "How Council Carved Up City of Yes",
+        description: "Protecting parking and single family neighborhoods, mapped",
+    },
+    {
         href: "https://citylimits.org/2024/11/19/1-in-8-nyc-public-school-students-experienced-homelessness-last-year-see-how-many-were-in-your-district/",
         image: "images/featured/YMZVq-in-some-school-districts-one-in-five-experienced-homelessness.png",
         title: "1 in 8 NYC School Students Homeless",
