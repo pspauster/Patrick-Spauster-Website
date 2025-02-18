@@ -165,6 +165,12 @@ var portfolio = [
 //Initiate array with data
 var writing = [
     {
+        href: "https://citylimits.org/2025/02/05/nyc-voucher-households-are-concentrated-in-a-handful-of-neighborhoods-data-shows/",
+        image: "images/cfheps.jpg",
+        title: "NYC Housing Vouchers Are Concentrated",
+        description: "CityFHEPS vouchers are hard to use outside certain zip codes",
+    },
+    {
         href: "https://citylimits.org/2025/01/06/the-blocks-strips-and-neighborhoods-carved-out-of-city-of-yes/",
         image: "images/hollis-homes.JPG",
         title: "How Council Carved Up City of Yes",
