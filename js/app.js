@@ -16,6 +16,12 @@ var portfolio = [
         description: "View some of my published and unpublished data visualizations",
     },
     {
+        href: "https://citylimits.org/new-york-approved-a-major-gas-pipeline-expansion-what-does-it-mean-for-its-climate-goals/",
+        image: "images/buildings_smoke.gif",
+        title: "Natural Gas Expansion in NY",
+        description: "My interactive story with maps and scroll effects",
+    },
+    {
         href: "https://furmancenter.org/neighborhoods",
         image: "images/ndps_2024.png",
         title: "Neighborhood Data Profiles",
@@ -164,6 +170,12 @@ var portfolio = [
 //Writing Carousel
 //Initiate array with data
 var writing = [
+    {
+        href: "https://www.untappedcities.com/author/patrick/",
+        image: "images/Untapped-New-York.gif",
+        title: "Column for Untapped NYC",
+        description: "My weekly column on urban planning and NYC",
+    },  
     {
         href: "https://citylimits.org/2025/02/05/nyc-voucher-households-are-concentrated-in-a-handful-of-neighborhoods-data-shows/",
         image: "images/cfheps.jpg",
